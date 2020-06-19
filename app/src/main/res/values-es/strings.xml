@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IMC Kalkulator</string>
+    <string name="textWeight">Peso (Kg)</string>
+    <string name="textHeight">Altura (m)</string>
+    <string name="textResult">Obtner IMC</string>
+    <string name="textReset">Reiniciar</string>
+    <string name="your_imc_is">Su IMC es %1$s</string>
+    <string name="fields_empty">Rellene todos los campos</string>
+    <string name="thinness_a">Delgadez aceptable</string>
+    <string name="normal">Normal</string>
+    <string name="overweight">Sobrepeso</string>
+    <string name="obesity1">Obesidad Clase I</string>
+    <string name="result">Resultado</string>
+    <string name="obesity2">Obesidad clase II</string>
+    <string name="obesity3">Obesidad clase III (Obesidad mórbida)</string>
+    <string name="obesity4">Obesidad clase IV (Obesidad extrema)</string>
+    <string name="thinness_s">Delgadez severa</string>
+    <string name="thinness_m">Delgadez moderada</string>
+    <string name="manK">Hombre</string>
+    <string name="womank">Mujer</string>
+</resources>
